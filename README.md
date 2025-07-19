@@ -45,14 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshR-25&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshR-25&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
 
 ## 🔗 Let's Connect!
 
