@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:5F27CD&height=200&section=header&text=Hey%20I'm%20Lokesh!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=700&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=435&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" alt="Typing SVG" />
@@ -33,6 +34,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-3C3C3C?style=flat-square&logo=espressif)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
