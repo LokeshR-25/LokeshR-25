@@ -1,9 +1,6 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=700&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" />
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=435&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=700&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" alt="Typing SVG" />
 </p>
 
 ---
