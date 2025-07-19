@@ -1,19 +1,26 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=700&lines=Electronics+%7C+Communication+%7C+Embedded+Systems;Love+for+AI+%26+Machine+Learning;Bridging+Hardware+and+Software+Worlds!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=ECE+%7C+Embedded+Systems+%7C+AI+Explorer" alt="Typing SVG" />
 </p>
+
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.Tech ECE @ VIT Chennai | BS in Data Science @ IIT Madras  
-- 🧠 Currently exploring Embedded Systems, Control Systems, and more!
-- 🔧 I build:  
-  - Smart systems using **8051 / Raspberry pi/ ESP32**
-  - Real-time ML on microcontrollers via **Edge Impulse + TensorFlow Lite**
-- 🌌 Space curious: Intern at **CSIR-CSIO (Driver Drowsiness Detection)**  
-- 📢 Communication buff! Trying to build rapport, network & inspire.
+🎓 ECE undergrad at VIT Chennai  
+🛠 Intern @ CSIR-CSIO  
+🧠 Exploring Embedded Systems, AI & Digital Design  
+🌱 Constantly learning and experimenting
+
+---
+
+### 🔧 Skills & Interests
+
+- 🔌 Embedded Systems (Arduino, ESP32, STM32)  
+- 🤖 AI & Machine Learning Fundamentals  
+- 📟 Digital Design & Analog Circuits  
+- 💡 Passionate about building real-world solutions
 
 ---
 
